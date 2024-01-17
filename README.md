@@ -95,4 +95,4 @@ Hopefully, those information can help you for your career as a pro coder. I'd ap
 
 ## :paperclip: Projects
 
-You can see the projects I am proud of in my **Pinned Repos** below.
+You can see the projects in my **Popular Repos** below.
