@@ -91,22 +91,8 @@ Hopefully, those information can help you for your career as a pro coder. I'd ap
 
 ---
 
-## :school: Courses
-
-The following links are repos for courses at CSU: 
-
-(More courses are preparing.. Or you can check it on my [Gitee Page](https://gitee.com/KiritoKing))
-
-
-
-You are my ![Visitor Count](https://profile-counter.glitch.me/Mozartto/count.svg) visitors
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mozartto)](https://github.com/Mozartto/github-readme-stats)
-
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mozartto&show_icons=true&theme=tokyonight)
-
 
 
 ## :paperclip: Projects
 
-You can see the projects I am proud of in my **Pinned Repos** below.
+You can see the projects I am proud of in my **Popular Repos** below.
