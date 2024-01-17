@@ -74,10 +74,8 @@ Hopefully, those information can help you for your career as a pro coder. I'd ap
 <div>
 	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50" />&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/unity/unity-original-wordmark.svg" title="unity" alt="unity" width="50" height="50" />&nbsp;
-	<img src="https://static.tildacdn.com/tild3739-3030-4235-b331-646539643966/logo.png" title="SM2" alt="SM2" width="50" height="50" />&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" title="linux" alt="linux" width="50" height="50" />&nbsp;
    <img src="https://i.mij.rip/2024/01/17/78dc1a55ba004a54fbc810bf188c2881.png" title="Spark" alt="Spark" width="50" height="50" />&nbsp;
-	 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redis/redis-original-wordmark.svg" title="Redis" alt="Redis" width="50" height="50" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" title="/spring" alt="/spring" width="50" height="50" />&nbsp;
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50" />&nbsp;
