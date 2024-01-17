@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 		<a href="https://space.bilibili.com/352436333">
 			<img src="https://img.shields.io/badge/%E4%B8%AD%E5%8D%97%E5%B0%8F%E5%9B%A2%E5%AD%90-%20%2C%20blue?label=Bilibili&color=red" alt="Bilibili Badge"/>
 		</a>
-        <a href="https://cuteball.cn">
+        <a href="cuteball.cn">
 			<img src="https://img.shields.io/badge/Blog-中南小团子-green" alt="Blog Badge"/>
 		</a>
     </div>
