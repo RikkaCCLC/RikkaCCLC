@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/XE90Rm9DzCVfHb7zTe/giphy.gif" width="100"/>
-  <h3>Chlorine Chen</h3>
+  <img src="https://avatars.githubusercontent.com/u/58902267?v=4" width="100"/>
+  <h3>Gaius Cornelius​</h3>
   keep coding, keep learning
 </div>
 <div id="badges" align="center">
