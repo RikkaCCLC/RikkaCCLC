@@ -15,18 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on **High performance computing**
-- 🌱 I’m currently learning **Feature engineering and model fusion**
-- 💬 Ask me about **mathematics**, **back-end development** and **algorithms**.
-- 📫 How to reach me: **QQ 1220883974**
-- ⚡ Pronouns: **Meritocracy / Libertarianism / Utilitarianism**
-- 😄 Interests: **Spanish, Japanese, Political philosophy**.
+
 
 
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/58902267?v=4" width="100"/>
   <h3>Gaius Cornelius​</h3>
-  keep coding, keep learning
+  <h5>你好呀 <h5> 
+	  When I was a young man, I had liberty ,but did not see it, I had time, but did not know it, And I had love, but did not feel it. 
+	  	  <br>Many decades would pass before I understood its meaning of all three.
 </div>
 <div id="badges" align="center">
     <div id="social">
@@ -88,7 +85,12 @@ The following links are repos for courses at HUST:
 
 (More courses are preparing.. Or you can check it on my [Gitee Page](https://gitee.com/KiritoKing))
 
-
+- 🔭 I’m currently working on **High performance computing**
+- 🌱 I’m currently learning **Feature engineering and model fusion**
+- 💬 Ask me about **mathematics**, **back-end development** and **algorithms**.
+- 📫 How to reach me: **QQ 1220883974**
+- ⚡ Pronouns: **Meritocracy / Libertarianism / Utilitarianism**
+- 😄 Interests: **Spanish, Japanese, Political philosophy**.
 
 ![Visitor Count](https://profile-counter.glitch.me/Mozartto/count.svg)
 
