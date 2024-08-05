@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 </div>
 <div id="badges" align="center">
     <div id="social">
-		
 		<a href="https://space.bilibili.com/352436333">
 			<img src="https://img.shields.io/badge/%E4%B8%AD%E5%8D%97%E5%B0%8F%E5%9B%A2%E5%AD%90-%20%2C%20blue?label=Bilibili&color=red" alt="Bilibili Badge"/>
 		</a>
