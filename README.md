@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## :handshake: Nice to see ya~
 
-I am a **Mathematics applied mathematics** student at CSU :cn: (Central South University, Changsha, China), and I decided to share the codes I wrote for those CS courses as well as some other open-source projects that I work on. Besides, I mainly work on **back-end** developing and **ML boosting**.
+I am a **Mathematics applied mathematics** student at CSU :cn: (Central South University, Changsha, China), and I decided to share the codes I wrote for those CS courses as well as some other open-source projects that I work on.
 
 Hopefully, those information can help you for your career as a pro coder. I'd appreciate it if you can **give me a star~**
 
