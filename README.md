@@ -55,10 +55,9 @@ I am a **Mathematics applied mathematics** student at CSU :cn: (Central South Un
 
 Hopefully, those information can help you for your career as a pro coder. I'd appreciate it if you can **give me a star~**
 
-> 本科为**中南大学2019级**数学与应用数学系，目前正在学习机器学习的特征工程与模型融合的知识，这里主要分享一些自己做的项目和代码，包括一些课程的lab。主要集中在**数据库、后端**以及一些**kaggle竞赛项目**（**LLM \ NLP、时序预测**等等）。
+> 本科为**中南大学**2019级**数学与应用数学系**，这里主要分享一些自己做的项目和代码，包括一些课程的lab。
 >
-> 由于目前还没有入门深度学习，对一些深度学习算法的了解也比较少。所以目前项目中使用到的人工智能相关代码**依然停留在机器学习阶段**
-> 包括常见的**GBDT**与**boost**算法、以及一些**特征工程和模型融合**的技巧等，预计三个月之后会开始学习DL的知识。
+
 > 
 > 其它的大多是一些自己做得杂七杂八的课程或项目，比如**Unity3D**、**密码学**以及一些好玩的cs项目（主要是系统方向）。
 > 
