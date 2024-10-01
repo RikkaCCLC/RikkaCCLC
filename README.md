@@ -21,9 +21,9 @@
     </div>
 </div>
 
-<p> I am a Mathematics student at CSU (Central South University) <img width="15" height="15" src="https://img.icons8.com/fluency/48/china-circular.png" alt="china-circular"/> <b>China</b>.
+<p> I am a Mathematics student at CSU (Central South University), <img width="15" height="15" src="https://img.icons8.com/fluency/48/china-circular.png" alt="china-circular"/> <b>China</b>.
 <br>Passionate about creating efficient, scalable systems and contributing to the open-source community. 
-Currently working on various projects that leverage big data technologies and cloud-native solutions.
+<br>Currently working on various projects that leverage big data technologies and cloud-native solutions.
 <h3>Things I code with</h3>
 <p>
   <img alt="Spark" src="https://img.shields.io/badge/-Spark-453345?style=flat-square&logo=apachespark&logoColor=#E25A1C" />
@@ -65,7 +65,7 @@ Currently working on various projects that leverage big data technologies and cl
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
+      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Fast modular inverse calculation function</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
