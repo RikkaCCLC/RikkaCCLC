@@ -33,12 +33,9 @@ Here are some ideas to get you started:
 </div>
 <div id="badges" align="center">
     <div id="social">
-<<<<<<< HEAD
-=======
 		<a href="https://www.zhihu.com/people/mozartto">
 			<img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Gaius Cornelius-blue" alt="Zhihu Badge"/>
 		</a>
->>>>>>> parent of da1c252 (Update README.md)
 		<a href="https://space.bilibili.com/352436333">
 			<img src="https://img.shields.io/badge/%E4%B8%AD%E5%8D%97%E5%B0%8F%E5%9B%A2%E5%AD%90-%20%2C%20blue?label=Bilibili&color=red" alt="Bilibili Badge"/>
 		</a>
@@ -57,13 +54,15 @@ Here are some ideas to get you started:
 
 ## :handshake: Nice to see ya~
 
-I am a **Mathematics applied mathematics** student at CSU :cn: (Central South University, Changsha, China), and I decided to share the codes I wrote for those CS courses as well as some other open-source projects that I work on.
+I am a **Mathematics applied mathematics** student at CSU :cn: (Central South University, Changsha, China), and I decided to share the codes I wrote for those CS courses as well as some other open-source projects that I work on. Besides, I mainly work on **back-end** developing and **ML boosting**.
 
 Hopefully, those information can help you for your career as a pro coder. I'd appreciate it if you can **give me a star~**
 
-> 本科为**中南大学**2019级**数学与应用数学系**，这里主要分享一些自己做的项目和代码，包括一些课程的lab。
+> 本科为**中南大学2019级数学与应用数学系**，目前正在学习机器学习的特征工程与模型融合的知识，这里主要分享一些自己做的项目和代码，包括一些课程的lab。主要集中在**数据库、后端**以及一些**kaggle竞赛项目**（**LLM \ NLP、时序预测**等等）。
+> 本科为**中南大学2019级**数学与应用数学系，目前正在学习机器学习的特征工程与模型融合的知识，这里主要分享一些自己做的项目和代码，包括一些课程的lab。主要集中在**数据库、后端**以及一些**kaggle竞赛项目**（**LLM \ NLP、时序预测**等等）。
 >
-
+> 由于目前还没有入门深度学习，对一些深度学习算法的了解也比较少。所以目前项目中使用到的人工智能相关代码**依然停留在机器学习阶段**
+> 包括常见的**GBDT**与**boost**算法、以及一些**特征工程和模型融合**的技巧等，预计三个月之后会开始学习DL的知识。
 > 
 > 其它的大多是一些自己做得杂七杂八的课程或项目，比如**Unity3D**、**密码学**以及一些好玩的cs项目（主要是系统方向）。
 > 
