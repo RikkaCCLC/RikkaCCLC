@@ -33,6 +33,12 @@ Here are some ideas to get you started:
 </div>
 <div id="badges" align="center">
     <div id="social">
+<<<<<<< HEAD
+=======
+		<a href="https://www.zhihu.com/people/mozartto">
+			<img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Gaius Cornelius-blue" alt="Zhihu Badge"/>
+		</a>
+>>>>>>> parent of da1c252 (Update README.md)
 		<a href="https://space.bilibili.com/352436333">
 			<img src="https://img.shields.io/badge/%E4%B8%AD%E5%8D%97%E5%B0%8F%E5%9B%A2%E5%AD%90-%20%2C%20blue?label=Bilibili&color=red" alt="Bilibili Badge"/>
 		</a>
