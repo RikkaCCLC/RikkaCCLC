@@ -16,8 +16,8 @@
 		</a>
     </div>
   	<div id="info">
-        <img src="https://img.shields.io/github/stars/Mozartto?style=social" alt="Github Stars"/>
-        <img src="https://img.shields.io/github/followers/Mozartto?style=social" alt="Github Followers"/>
+        <img src="https://img.shields.io/github/stars/RikkaCCLC?style=social" alt="Github Stars"/>
+        <img src="https://img.shields.io/github/followers/RikkaCCLC?style=social" alt="Github Followers"/>
     </div>
 </div>
 
