@@ -21,7 +21,10 @@
     </div>
 </div>
 
-<p> I'm a student from the Department of Mathematics at Central South University, <img width="15" height="15" src="https://img.icons8.com/fluency/48/china-circular.png" alt="china-circular"/> <b>China</b>, currently living in<img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p> I'm a student from the Department of Mathematics at Central South University, 🇨🇳 China, 
+currently focusing on backend development and deep learning. Passionate about open-source 
+contributions and exploring algorithms. My projects span various domains, reflecting my 
+diverse interests in technology. Always eager to learn and contribute to the developer community!<img width="15" height="15" src="https://img.icons8.com/fluency/48/china-circular.png" alt="china-circular"/> <b>China</b>, currently living in<img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
