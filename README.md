@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hi! Nice to see ya ~.</h1>
 <div id="header" align="center">
-  <img src="https://www.fenxiang77.com/upload/products/202401/26/09315665b30b8cc5a33AX7BYv_thumb.jpg" width="100"/>
+  <img src="https://ooo.0x0.ooo/2024/10/01/O4f9Nj.png" width="100"/>
   <h3>Rikka Takarada</h3>
 </div>
 <div id="badges" align="center">
@@ -9,7 +9,7 @@
 			<img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Itoko Sakuragi-blue" alt="Zhihu Badge"/>
 		</a>
 		<a href="https://space.bilibili.com/8408315">
-			<img src="https://img.shields.io/badge/Bilibili-中南小团子-pink" alt="Bilibili Badge"/>
+			<img src="https://img.shields.io/badge/Bilibili-中南小团子-coral" alt="Bilibili Badge"/>
 		</a>
         <a href="https://cuteball.cn">
 			<img src="https://img.shields.io/badge/Blog-Rikka Takarada-purple" alt="Blog Badge"/>
