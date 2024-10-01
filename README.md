@@ -25,33 +25,7 @@
 <br>Passionate about creating efficient, scalable systems and contributing to the open-source community. 
 <br>Currently working on various projects that leverage big data technologies and cloud-native solutions.
 <h3>Things I code with</h3>
-<p>
-  <img alt="Spark" src="https://img.shields.io/badge/-Spark-453345?style=flat-square&logo=apachespark&logoColor=#E25A1C" />
-  <img alt="apachehive" src="https://img.shields.io/badge/-Hive-583942?style=flat-square&logo=apachehive&logoColor=#FDEE21" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-600351?style=flat-square&logo=docker&logoColor=pink" />
-  <img alt="apacheflink" src="https://img.shields.io/badge/-Flink-350130?style=flat-square&logo=apacheflink&logoColor=#E6526F" />
-  <img alt="presto" src="https://img.shields.io/badge/-Presto-7E214F?style=flat-square&logo=presto&logoColor=ffe7ba" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=fffb8f" />
-  <img alt="scala" src="https://img.shields.io/badge/-Scala-584907?style=flat-square&logo=scala&logoColor=adc6ff" />
-  <img alt="kong" src="https://img.shields.io/badge/-Kong-311C87?style=flat-square&logo=kong&logoColor=FFCCFF" />
-  <img alt="spring" src="https://img.shields.io/badge/-Spring-400542?style=flat-square&logo=spring&logoColor=#6DB33F" />
-  <img alt="apachekafka" src="https://img.shields.io/badge/-ApacheKafka-764ABC?style=flat-square&logo=apachekafka&logoColor=fffb8f" />
-  <img alt="apacherocketmq" src="https://img.shields.io/badge/-RocketMQ-B7178C?style=flat-square&logo=apacherocketmq&logoColor=f4ffb8" />
-  <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-E10098?style=flat-square&logo=kubernetes&logoColor=FFFF33" />
-  <img alt="elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-CC6699?style=flat-square&logo=elasticsearch&logoColor=6FD8D6" />
-  <img alt="redis" src="https://img.shields.io/badge/-Redis-B27AD8?style=flat-square&logo=redis&logoColor=7E214F" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="apacheairflow" src="https://img.shields.io/badge/-Airflow-ea2845?style=flat-square&logo=apacheairflow&logoColor=f9f0ff" />
-  <img alt="apachehbase" src="https://img.shields.io/badge/-Hbase-722ed1?style=flat-square&logo=apachehbase&logoColor=efdbff" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-</p>
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
