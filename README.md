@@ -21,32 +21,31 @@
     </div>
 </div>
 
-<p> I'm a student from the Department of Mathematics at Central South University, 🇨🇳 China, 
-currently focusing on backend development and deep learning. Passionate about open-source 
-contributions and exploring algorithms. My projects span various domains, reflecting my 
-diverse interests in technology. Always eager to learn and contribute to the developer community!<img width="15" height="15" src="https://img.icons8.com/fluency/48/china-circular.png" alt="china-circular"/> <b>China</b>, currently living in<img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p> I am a Mathematics student at CSU (Central South University) <img width="15" height="15" src="https://img.icons8.com/fluency/48/china-circular.png" alt="china-circular"/> <b>China</b>.
+<br>Passionate about creating efficient, scalable systems and contributing to the open-source community. 
+Currently working on various projects that leverage big data technologies and cloud-native solutions.
 <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
-  <img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Spark" src="https://img.shields.io/badge/-Spark-453345?style=flat-square&logo=apachespark&logoColor=#E25A1C" />
+  <img alt="apachehive" src="https://img.shields.io/badge/-Hive-583942?style=flat-square&logo=apachehive&logoColor=#FDEE21" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-600351?style=flat-square&logo=docker&logoColor=pink" />
+  <img alt="apacheflink" src="https://img.shields.io/badge/-Flink-350130?style=flat-square&logo=apacheflink&logoColor=#E6526F" />
+  <img alt="presto" src="https://img.shields.io/badge/-Presto-7E214F?style=flat-square&logo=presto&logoColor=ffe7ba" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=fffb8f" />
+  <img alt="scala" src="https://img.shields.io/badge/-Scala-584907?style=flat-square&logo=scala&logoColor=adc6ff" />
+  <img alt="kong" src="https://img.shields.io/badge/-Kong-311C87?style=flat-square&logo=kong&logoColor=FFCCFF" />
+  <img alt="spring" src="https://img.shields.io/badge/-Spring-400542?style=flat-square&logo=spring&logoColor=#6DB33F" />
+  <img alt="apachekafka" src="https://img.shields.io/badge/-ApacheKafka-764ABC?style=flat-square&logo=apachekafka&logoColor=fffb8f" />
+  <img alt="apacherocketmq" src="https://img.shields.io/badge/-RocketMQ-B7178C?style=flat-square&logo=apacherocketmq&logoColor=f4ffb8" />
+  <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-E10098?style=flat-square&logo=kubernetes&logoColor=FFFF33" />
+  <img alt="elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-CC6699?style=flat-square&logo=elasticsearch&logoColor=6FD8D6" />
+  <img alt="redis" src="https://img.shields.io/badge/-Redis-B27AD8?style=flat-square&logo=redis&logoColor=7E214F" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="apacheairflow" src="https://img.shields.io/badge/-Airflow-ea2845?style=flat-square&logo=apacheairflow&logoColor=f9f0ff" />
+  <img alt="apachehbase" src="https://img.shields.io/badge/-Hbase-722ed1?style=flat-square&logo=apachehbase&logoColor=efdbff" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
