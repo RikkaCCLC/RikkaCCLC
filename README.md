@@ -63,9 +63,9 @@
 </table>
 <h3>My latest posts</h3>
 <ul>
-  <li><a href="https://my-bucket-1304946661.cos-website.ap-guangzhou.myqcloud.com/2023/03/17/Ch.2%20LightGBM%E7%9A%84GOSS%E9%87%87%E6%A0%B7%E4%B8%8E%E7%9B%B4%E6%96%B9%E5%9B%BE%E4%BC%98%E5%8C%96%E8%BF%87%E7%A8%8B/"><b>LightGBM核心技术：GOSS采样与直方图优化算法</b></a><br/><i>GOSS sampling and histogram optimization algorithm</i></li>
+  <li><a href="https://my-bucket-1304946661.cos-website.ap-guangzhou.myqcloud.com/2023/03/17/Ch.2%20LightGBM%E7%9A%84GOSS%E9%87%87%E6%A0%B7%E4%B8%8E%E7%9B%B4%E6%96%B9%E5%9B%BE%E4%BC%98%E5%8C%96%E8%BF%87%E7%A8%8B/"><b>LightGBM core technology: GOSS sampling and histogram optimization algorithm</b></a><br/><i>GOSS sampling and histogram optimization algorithm</i></li>
   <li><a href="https://my-bucket-1304946661.cos-website.ap-guangzhou.myqcloud.com/2023/12/30/LSTM%E4%B8%8EGRU%EF%BC%88%E4%B8%8A%EF%BC%89/"><b> LSTM & GRU </b></a><br/><i>Introduction to the basic principles and architecture of LSTM</i></li>
-    <li><a href="https://my-bucket-1304946661.cos-website.ap-guangzhou.myqcloud.com/2023/01/10/%E5%8E%9F%E7%90%86%E8%BF%9B%E9%98%B6%EF%BC%9AXGBoost%E7%9A%84%E6%B1%82%E8%A7%A3%E6%B5%81%E7%A8%8B/"><b> XGBoost的数学原理推导</b></a><br/><i>Basic mathematical process of XGB and derivation of objective function</i></li>
+    <li><a href="https://my-bucket-1304946661.cos-website.ap-guangzhou.myqcloud.com/2023/01/10/%E5%8E%9F%E7%90%86%E8%BF%9B%E9%98%B6%EF%BC%9AXGBoost%E7%9A%84%E6%B1%82%E8%A7%A3%E6%B5%81%E7%A8%8B/"><b> Derivation of the mathematical principles of XGBoost</b></a><br/><i>Basic mathematical process of XGB and derivation of objective function</i></li>
 </ul>
 
 ------------
