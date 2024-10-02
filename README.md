@@ -8,7 +8,7 @@
 		<a href="https://www.zhihu.com/people/mozartto">
 			<img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Itoko Sakuragi-blue" alt="Zhihu Badge"/>
 		</a>
-		<a href="https://space.bilibili.com/8408315">
+		<a href="https://space.bilibili.com/352436333">
 			<img src="https://img.shields.io/badge/Bilibili-中南小团子-coral" alt="Bilibili Badge"/>
 		</a>
         <a href="https://cuteball.cn">
