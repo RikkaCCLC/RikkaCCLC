@@ -21,7 +21,6 @@
     </div>
 </div>
 
-<<<<<<< RikkaCCLC-patch-1
 <p>Mathematics student at CSU (Central South University), <img width="15" height="15" src="https://img.icons8.com/fluency/48/china-circular.png" alt="china-circular"/> <b>China</b>.
 <br>Focused on developing efficient and scalable systems.
 <br>Active contributor to open-source projects.
