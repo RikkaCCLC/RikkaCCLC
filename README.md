@@ -59,6 +59,13 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RikkaCCLC/Netty-Based-MQ?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RikkaCCLC/Netty-Based-MQ?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href=https://github.com/RikkaCCLC/Distributed-Detection-System"><b>C/S platform architecture design for 10,000-level nodes</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/RikkaCCLC/Distributed-Detection-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/RikkaCCLC/Distributed-Detection-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/RikkaCCLC/Distributed-Detection-System?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RikkaCCLC/Distributed-Detection-System?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 <h3>My latest posts</h3>
