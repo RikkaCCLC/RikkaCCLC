@@ -46,7 +46,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RikkaCCLC/Constant-Time-GCD?style=flat-square&labelColor=343b41"/></td>
     </tr>
       <tr>
-      <td><a href=https://github.com/RikkaCCLC/Distributed-Detection-System"><b>C/S Cloud-native DevOps architecture </b></a></td>
+      <td><a href=https://github.com/RikkaCCLC/Distributed-Detection-System"><b>Cloud-native DevOps Sys</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/RikkaCCLC/Distributed-Detection-System?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/RikkaCCLC/Distributed-Detection-System?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RikkaCCLC/Distributed-Detection-System?style=flat-square&labelColor=343b41"/></td>
