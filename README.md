@@ -67,12 +67,6 @@
   <li><a href="https://my-bucket-1304946661.cos-website.ap-guangzhou.myqcloud.com/2023/12/30/LSTM%E4%B8%8EGRU%EF%BC%88%E4%B8%8A%EF%BC%89/"><b> LSTM & GRU </b></a><br/><i>Introduction to the basic principles and architecture of LSTM</i></li>
     <li><a href="https://my-bucket-1304946661.cos-website.ap-guangzhou.myqcloud.com/2023/01/10/%E5%8E%9F%E7%90%86%E8%BF%9B%E9%98%B6%EF%BC%9AXGBoost%E7%9A%84%E6%B1%82%E8%A7%A3%E6%B5%81%E7%A8%8B/"><b> XGBoost的数学原理推导</b></a><br/><i>Basic mathematical process of XGB and derivation of objective function</i></li>
 </ul>
-<h3>Välkommen till <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> Stockholm!</h3>
-<p><img width="200" src="" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/visitstockholm/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @visitstockholm!</a><br/>Currently, the weather is: <b> 1°C, <i>fog</i></b></br>Today, the sun rises at <b>06:53</b> and sets at <b>18:21</b>.</p>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 1 October, 05:11 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
