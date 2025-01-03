@@ -12,7 +12,7 @@
 			<img src="https://img.shields.io/badge/Bilibili-中南小团子-coral" alt="Bilibili Badge"/>
 		</a>
         <a href="https://cuteball.cn">
-			<img src="https://img.shields.io/badge/Blog-Rikka Takarada-purple" alt="Blog Badge"/>
+			<img src="https://img.shields.io/badge/Blog-芳澤 かすみ-purple" alt="Blog Badge"/>
 		</a>
     </div>
   	<div id="info">
