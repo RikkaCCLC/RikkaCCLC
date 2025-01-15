@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hi! Nice to see ya ~.</h1>
 <div id="header" align="center">
-  <img src="https://www.helloimg.com/i/2025/01/03/677771c3ba8c9.jpg" width="100"/>
+  <img src="https://www.helloimg.com/i/2025/01/15/6787ccd61f2ef.jpg" width="100"/>
   <h3>芳澤 かすみ</h3>
 </div>
 <div id="badges" align="center">
