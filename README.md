@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hi! Nice to see ya ~.</h1>
 <div id="header" align="center">
-  <img src="https://www.helloimg.com/i/2025/01/15/6787ccd61f2ef.jpg" width="100"/>
-  <h3>蕭棋 ショウキ</h3>
+  <img src="https://img.picui.cn/free/2025/04/21/680653862da89.jpg" alt="qq_pic_merged_1745244399338.jpg" title="qq_pic_merged_1745244399338.jpg" width=12% height=auto />
+  <h3>蕭棋 しょうき</h3>
 </div>
 <div id="badges" align="center">
     <div id="social">
@@ -40,8 +40,8 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/RikkaCCLC/Fast-modular-inverse-calculation-function"><b>Fast modular inverse calculation function</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/RikkaCCLC//Fast-modular-inverse-calculation-function?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/RikkaCCLC/Constant-Time-GCD?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/RikkaCCLC/Fast-modular-inverse-calculation-function?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/RikkaCCLC/Fast-modular-inverse-calculation-function?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/RikkaCCLC/Constant-Time-GCD?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RikkaCCLC/Constant-Time-GCD?style=flat-square&labelColor=343b41"/></td>
     </tr>
