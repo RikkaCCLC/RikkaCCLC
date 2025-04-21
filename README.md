@@ -1,18 +1,18 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hi! Nice to see ya ~.</h1>
 <div id="header" align="center">
   <img src="https://www.helloimg.com/i/2025/01/15/6787ccd61f2ef.jpg" width="100"/>
-  <h3>芳澤 かすみ</h3>
+  <h3>蕭棋 ショウキ</h3>
 </div>
 <div id="badges" align="center">
     <div id="social">
 		<a href="https://www.zhihu.com/people/mozartto">
-			<img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-Itoko Sakuragi-blue" alt="Zhihu Badge"/>
+			<img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-萧棋-blue" alt="Zhihu Badge"/>
 		</a>
 		<a href="https://space.bilibili.com/352436333">
 			<img src="https://img.shields.io/badge/Bilibili-中南小团子-coral" alt="Bilibili Badge"/>
 		</a>
         <a href="https://cuteball.cn">
-			<img src="https://img.shields.io/badge/Blog-芳澤 かすみ-purple" alt="Blog Badge"/>
+			<img src="https://img.shields.io/badge/Blog-蕭棋 ショウキ-purple" alt="Blog Badge"/>
 		</a>
     </div>
   	<div id="info">
