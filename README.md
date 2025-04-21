@@ -9,7 +9,10 @@
 			<img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-萧棋-blue" alt="Zhihu Badge"/>
 		</a>
 		<a href="https://space.bilibili.com/352436333">
-			<img src="https://img.shields.io/badge/Bilibili-中南小团子-coral" alt="Bilibili Badge"/>
+			<img src="https://img.shields.io/badge/Bilibili-中南小团子-deeppink" alt="Bilibili Badge"/>
+		</a>
+  <a href="https://x.com/Jerry21313800">
+			<img src="https://img.shields.io/badge/X-蕭棋-midnightblue" alt="X Badge"/>
 		</a>
         <a href="https://cuteball.cn">
 			<img src="https://img.shields.io/badge/Blog-蕭棋 ショウキ-purple" alt="Blog Badge"/>
@@ -21,11 +24,36 @@
     </div>
 </div>
 
-<p>Mathematics student at CSU (Central South University), <img width="15" height="15" src="https://img.icons8.com/fluency/48/china-circular.png" alt="china-circular"/> <b>China</b>.
+---
+
+Mathematics student Graduated from CSU (Central South University), 2023,  <b>China</b>.
+<br>Entrepreneur & Currently working on software development-related entrepreneurial ventures in HongKong.
 <br>Focused on developing efficient and scalable systems.
 <br>Active contributor to open-source projects.
 <br>Currently engaged in projects involving big data technologies and cloud-native solutions.
+<br>Feel free to reach out via the social links above. All my contact details for different platforms can be found on my blog.
+<br>
 
+
+> 中南大学2023届数学系毕业生。
+> 
+> 目前在香港创业，公司主要从事软件开发 & 数仓相关的业务，主要是数仓搭建和流式计算。
+>  
+> 公司目前在做一些Sass项目，平时自己也会也做一些开源项目，主要是DevOps和一些后端项目。
+>
+> 欢迎通过上面的社交链接找到我，博客里有所有我本人所有常用社交媒体的联系方式。
+>
+---
+>中南大学2023年数学系卒業生です。
+>
+>現在は香港で起業しており、会社は主にソフトウェア開発とデータウェアハウス関連の業務に従事しています。
+>
+>主な業務はデータウェアハウスの構築とストリーム計算です。
+>
+>会社では現在、いくつかのSaaSプロジェクトを手がけており、個人的にもオープンソースプロジェクトに取り組んでいます。主にDevOpsやバックエンドプ
+ロジェクトに関わっています。
+>
+>上記のソーシャルリンクから私を見つけLETTEください。ブログには、私個人がよく使うソーシャルメディアのすべての連絡先が掲載されています。
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
