@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hi! Nice to see ya ~.</h1>
 <div id="header" align="center">
-  <img src="https://img.picui.cn/free/2025/04/21/680653862da89.jpg" alt="qq_pic_merged_1745244399338.jpg" title="qq_pic_merged_1745244399338.jpg" width=12% height=auto />
-  <h3>蕭棋 しょうき</h3>
+  <img src="https://img.picui.cn/free/2025/04/24/6809d0420be54.jpg" alt="qq_pic_merged_1745244399338.jpg" title="qq_pic_merged_1745244399338.jpg" width=12% height=auto />
+  <h3>蕭棋</h3>
 </div>
 <div id="badges" align="center">
     <div id="social">
@@ -14,8 +14,8 @@
   <a href="https://x.com/Jerry21313800">
 			<img src="https://img.shields.io/badge/X-蕭棋-midnightblue" alt="X Badge"/>
 		</a>
-        <a href="https://cuteball.cn">
-			<img src="https://img.shields.io/badge/Blog-蕭棋 ショウキ-purple" alt="Blog Badge"/>
+        <a href="101.37.232.56">
+			<img src="https://img.shields.io/badge/Blog-Rikka 蕭棋-purple" alt="Blog Badge"/>
 		</a>
     </div>
   	<div id="info">
@@ -37,7 +37,7 @@ Mathematics student Graduated from CSU (Central South University), 2023,  <b>Chi
 
 > 中南大学2023届数学系毕业生。
 > 
-> 目前在香港创业，公司主要从事软件开发 & 数仓相关的业务，主要是数仓搭建和流式计算。
+> 目前在香港创业，主要从事软件开发 & 数仓相关的业务，主要是数仓搭建和流式计算。
 >  
 > 公司目前在做一些Sass项目，平时自己也会也做一些开源项目，主要是DevOps和一些后端项目。
 >
