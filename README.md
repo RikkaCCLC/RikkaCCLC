@@ -14,7 +14,7 @@
   <a href="https://x.com/Jerry21313800">
 			<img src="https://img.shields.io/badge/X-蕭棋-midnightblue" alt="X Badge"/>
 		</a>
-        <a href="101.37.232.56">
+        <a href="http://101.37.232.56">
 			<img src="https://img.shields.io/badge/Blog-Rikka 蕭棋-purple" alt="Blog Badge"/>
 		</a>
     </div>
