@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hi! Nice to see ya ~.</h1>
 <div id="header" align="center">
   <img src="https://img.picui.cn/free/2025/04/24/6809d0420be54.jpg" alt="qq_pic_merged_1745244399338.jpg" title="qq_pic_merged_1745244399338.jpg" width=12% height=auto />
-  <h3>蕭棋</h3>
+  <h3>Rikka</h3>
 </div>
 <div id="badges" align="center">
     <div id="social">
