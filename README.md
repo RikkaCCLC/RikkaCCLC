@@ -12,7 +12,7 @@
 			<img src="https://img.shields.io/badge/X-蕭棋-midnightblue" alt="X Badge"/>
 		</a>
         <a href="http://rikka.hk">
-			<img src="https://img.shields.io/badge/Blog-Rikka 蕭棋-purple" alt="Blog Badge"/>
+			<img src="https://img.shields.io/badge/Blog-御桜稟-purple" alt="Blog Badge"/>
 		</a>
     </div>
   	<div id="info">
