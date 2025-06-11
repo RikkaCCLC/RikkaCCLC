@@ -8,7 +8,7 @@
 		<a href="https://www.zhihu.com/people/mozartto">
 			<img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-萧棋-blue" alt="Zhihu Badge"/>
 		</a>
-  <a href="https://x.com/Jerry21313800">
+  <a href="https://x.com/RikkaXQ">
 			<img src="https://img.shields.io/badge/X-蕭棋-midnightblue" alt="X Badge"/>
 		</a>
         <a href="http://rikka.hk">
