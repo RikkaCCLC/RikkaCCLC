@@ -1,25 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="35"/> Hi! Nice to see ya ~.</h1>
-<div id="header" align="center">
-  <img src="http://phantomlight.hk/upload/thumbnails/2025/w1600/avatar.jpg" title="RIKKA" width=12% height=auto />
-  <h3>Rikka</h3>
-</div>
-<div id="badges" align="center">
-    <div id="social">
-		<a href="https://www.zhihu.com/people/mozartto">
-			<img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-萧棋-blue" alt="Zhihu Badge"/>
-		</a>
-  <a href="https://x.com/RikkaXQ">
-			<img src="https://img.shields.io/badge/X-蕭棋-midnightblue" alt="X Badge"/>
-		</a>
-        <a href="http://rikka.hk">
-			<img src="https://img.shields.io/badge/Blog-御桜稟-purple" alt="Blog Badge"/>
-		</a>
-    </div>
-  	<div id="info">
-        <img src="https://img.shields.io/github/stars/RikkaCCLC?style=social" alt="Github Stars"/>
-        <img src="https://img.shields.io/github/followers/RikkaCCLC?style=social" alt="Github Followers"/>
-    </div>
-</div>
+
 
 ---
 
