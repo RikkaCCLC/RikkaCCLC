@@ -32,11 +32,11 @@ Mathematics student Graduated from CSU (Central South University), 2023,  <b>Chi
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RikkaCCLC/Constant-Time-GCD?style=flat-square&labelColor=343b41"/></td>
     </tr>
       <tr>
-      <td><a href=https://github.com/RikkaCCLC/Distributed-Detection-System"><b>Cloud-native DevOps Sys</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/RikkaCCLC/Distributed-Detection-System?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/RikkaCCLC/Distributed-Detection-System?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/RikkaCCLC/Distributed-Detection-System?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RikkaCCLC/Distributed-Detection-System?style=flat-square&labelColor=343b41"/></td>
+      <td><a href=https://github.com/RikkaCCLC/Titan-KV"><b>Titan-KV</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/RikkaCCLC/Titan-KV?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/RikkaCCLC/Titan-KV?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/RikkaCCLC/Titan-KV?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/RikkaCCLC/Titan-KV?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/RikkaCCLC/Netty-Based-MQ"><b>Netty-Based-MQ</b></a></td>
