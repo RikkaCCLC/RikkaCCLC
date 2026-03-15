@@ -4,7 +4,7 @@
 [![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=RikkaCCLC.RikkaCCLC)](https://github.com/RikkaCCLC)
 [![GitHub Follow](https://img.shields.io/github/followers/RikkaCCLC?label=Follow&style=social)](https://github.com/RikkaCCLC)
 
-> **Systems Engineer | Open Source Enthusiast | Rustacean & C++ Developer**
+> **Systems Engineer | Open Source Enthusiast | Rustacean & C++ & Java Developer**
 
 I am a passionate software engineer specializing in **High-Performance Computing (HPC)**, **Distributed Storage Systems**, and **Cloud-Native Infrastructure**. My research focuses on optimizing I/O throughput for modern hardware (NVMe SSDs) and designing low-latency systems using lock-free data structures and asynchronous runtime models.
 
